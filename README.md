@@ -35,8 +35,3 @@ npm install express nodemon
 
 nodemon saves updated change and is a huge time saver
 
-
-Debug
-```bash
-set DEBUG=testApp:* & npm start
-```
