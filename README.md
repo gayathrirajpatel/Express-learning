@@ -4,8 +4,8 @@
 
 Check versions
 ```bash
-node -v
-npm -v
+    node -v
+    npm -v
 
 ```
 
