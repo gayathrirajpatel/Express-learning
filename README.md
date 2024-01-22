@@ -12,8 +12,8 @@ Check versions
 
 Installations
 ```bash
-npm install -g express-generator - for earlir versions
-express --git --hbs testApp   - create testapp project with gitignore and hbs
+    npm install -g express-generator - for earlir versions
+    express --git --hbs testApp   - create testapp project with gitignore and hbs
 
 ```
 
