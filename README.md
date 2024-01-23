@@ -20,7 +20,7 @@ Installations
 
 Debug
 ```bash
-set DEBUG=testApp:* & npm start
+    set DEBUG=testApp:* & npm start
 ```
 
 
@@ -30,7 +30,7 @@ set DEBUG=testApp:* & npm start
 Installations
 
 ```bash
-npm install express nodemon
+    npm install express nodemon
 ```
 
 nodemon saves updated change and is a huge time saver
